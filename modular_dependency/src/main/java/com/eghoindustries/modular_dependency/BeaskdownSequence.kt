@@ -9,4 +9,8 @@ class BeaskdownSequence{
     fun renewModularLog(message: String) {
         println("DDLS  ==> $message")
     }
+
+    fun mySongWriterIsAround(message: String) {
+        println("DDLS_ ==> Song Writer")
+    }
 }
