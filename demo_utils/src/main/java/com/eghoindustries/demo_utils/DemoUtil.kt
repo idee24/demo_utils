@@ -7,7 +7,7 @@ class DemoUtil{
 
     var TAG = "DDLS  => "
 
-    private fun log(message: String) {
+    fun log(message: String) {
         println(TAG + message)
-    } 
+    }
 }

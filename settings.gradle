@@ -1,3 +1,4 @@
+include ':modular_dependency'
 include ':demo_utils'
 include ':app'
 rootProject.name = "DemoUtilsExample"
